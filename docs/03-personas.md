@@ -132,4 +132,4 @@ Names are fictional and the personas are composites based on public NSI document
 ## Validation status
 
 - All personas are assumptions based on public NSI documents until the supervisor confirms them.
-- Questions for the supervisor are in `supervisor-email-log.md`.
+
